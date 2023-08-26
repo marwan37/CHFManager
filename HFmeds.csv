@@ -1,0 +1,51 @@
+id,generic,brand,class
+1,Benazepril,Lotensin,ACE inhibitors
+2,Enalapril maleate,Vasotec,ACE inhibitors
+3,Lisinopril ,"Prinivil, Zestril",ACE inhibitors
+4,Quinapril ,Accupril,ACE inhibitors
+5,Ramipril ,Altace,ACE inhibitors
+6,Captopril,Capoten,ACE inhibitors
+7,Trandolapril,Mavik,ACE inhibitors
+8,Perindopril,Coversyl,ACE inhibitors
+9,Acebutolol,Sectral¨,Beta-Blockers
+10,Atenolol,Tenormin¨,Beta-Blockers
+11,Bisoprolol,Monocor¨,Beta-Blockers
+12,Carvedilol,Coreg¨,Beta-Blockers
+13,Labetalol,Trandate¨,Beta-Blockers
+14,Metoprolol,"Lopressor¨, Betaloc¨",Beta-Blockers
+15,Nadolol,Corgard¨,Beta-Blockers
+16,Pindolol,Viskazide¨,Beta-Blockers
+17,Propranolol,Inderal¨,Beta-Blockers
+18,Timolol,Blocadren¨,Beta-Blockers
+19,azilsartan,Edarbi,ARBs
+20,candesartan,Atacand,ARBs
+21,eprosartan,Teveten,ARBs
+22,irbesartan,Avapro,ARBs
+23,telmisartan,Micardis,ARBs
+24,valsartan,"Diovan, Prexxartan",ARBs
+25,losartan,Cozaar,ARBs
+26,olmesartan,Benicar,ARBs
+27,Spironolactone,Aldactone,Aldosterone Antagonists
+28,Eplerenone,Inspra,Aldosterone Antagonists
+29,Furosemide,Lasix,Diuretics (water pills)
+30,Bumetanide,Bumex,Diuretics (water pills)
+31,Torsemide,Demadex,Diuretics (water pills)
+32,Chlorothiazide,Diuril,Diuretics (water pills)
+33,Amiloride,Midamor Chlorthalidone (Hygroton,Diuretics (water pills)
+34,Hydrochlorothiazide,"Esidrix, Hydrodiuril",Diuretics (water pills)
+35,Indapamide,Lozol,Diuretics (water pills)
+36,Metolazone,Zaroxolyn,Diuretics (water pills)
+37,Triamterene,Dyrenium,Diuretics (water pills)
+38,ivabradine,"Lancora, Corlanor",If Channel Blocker
+39,Hydralazine,,Vasodilator
+40,Nitrate,,Vasodilator
+41,Warfarin,Coumadin,Blood Thinner
+42,digoxin,Lanoxin or Toloxin,Anti-Arrhythmic
+43,Sacubitril/valsartan,,ARNIs
+44,Hydralazine and isosorbide dinitrate ,Bidil,Combination drug
+45,Atorvastatin,Lipitor¨,Statins
+46,Fluvastatin,Lescol.Ê¨,Statins
+47,Lovastatin,Mevacor¨,Statins
+48,Pravastatin,Pravachol¨,Statins
+49,Rosuvastatin,Crestor¨,Statins
+50,Simvastatin,Zocor¨,Statins

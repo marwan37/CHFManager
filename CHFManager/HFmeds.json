@@ -1,0 +1,320 @@
+[
+ {
+   "id": 1,
+   "generic": "Benazepril",
+   "brand": "Lotensin",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 2,
+   "generic": "Enalapril maleate",
+   "brand": "Vasotec",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 3,
+   "generic": "Lisinopril ",
+   "brand": "Prinivil, Zestril",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 4,
+   "generic": "Quinapril ",
+   "brand": "Accupril",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 5,
+   "generic": "Ramipril ",
+   "brand": "Altace",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 6,
+   "generic": "Captopril",
+   "brand": "Capoten",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 7,
+   "generic": "Trandolapril",
+   "brand": "Mavik",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 8,
+   "generic": "Perindopril",
+   "brand": "Coversyl",
+   "type": "ACE inhibitor"
+ },
+ {
+   "id": 9,
+   "generic": "Acebutolol",
+   "brand": "Sectral",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 10,
+   "generic": "Atenolol",
+   "brand": "Tenormin",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 11,
+   "generic": "Bisoprolol",
+   "brand": "Monocor",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 12,
+   "generic": "Carvedilol",
+   "brand": "Coreg",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 13,
+   "generic": "Labetalol",
+   "brand": "Trandate",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 14,
+   "generic": "Metoprolol",
+   "brand": "Lopressor, Betaloc",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 15,
+   "generic": "Nadolol",
+   "brand": "Corgard",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 16,
+   "generic": "Pindolol",
+   "brand": "Viskazide",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 17,
+   "generic": "Propranolol",
+   "brand": "Inderal",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 18,
+   "generic": "Timolol",
+   "brand": "Blocadren",
+   "type": "Beta-Blocker"
+ },
+ {
+   "id": 19,
+   "generic": "Azilsartan",
+   "brand": "Edarbi",
+   "type": "ARB"
+ },
+ {
+   "id": 20,
+   "generic": "Candesartan",
+   "brand": "Atacand",
+   "type": "ARB"
+ },
+ {
+   "id": 21,
+   "generic": "Eprosartan",
+   "brand": "Teveten",
+   "type": "ARB"
+ },
+ {
+   "id": 22,
+   "generic": "Irbesartan",
+   "brand": "Avapro",
+   "type": "ARB"
+ },
+ {
+   "id": 23,
+   "generic": "Telmisartan",
+   "brand": "Micardis",
+   "type": "ARB"
+ },
+ {
+   "id": 24,
+   "generic": "Valsartan",
+   "brand": "Diovan, Prexxartan",
+   "type": "ARB"
+ },
+ {
+   "id": 25,
+   "generic": "Losartan",
+   "brand": "Cozaar",
+   "type": "ARB"
+ },
+ {
+   "id": 26,
+   "generic": "Olmesartan",
+   "brand": "Benicar",
+   "type": "ARB"
+ },
+ {
+   "id": 27,
+   "generic": "Spironolactone",
+   "brand": "Aldactone",
+   "type": "Aldosterone Antagonist"
+ },
+ {
+   "id": 28,
+   "generic": "Eplerenone",
+   "brand": "Inspra",
+   "type": "Aldosterone Antagonist"
+ },
+ {
+   "id": 29,
+   "generic": "Furosemide",
+   "brand": "Lasix",
+   "type": "Diuretic"
+ },
+ {
+   "id": 30,
+   "generic": "Bumetanide",
+   "brand": "Bumex",
+   "type": "Diuretic"
+ },
+ {
+   "id": 31,
+   "generic": "Torsemide",
+   "brand": "Demadex",
+   "type": "Diuretic"
+ },
+ {
+   "id": 32,
+   "generic": "Chlorothiazide",
+   "brand": "Diuril",
+   "type": "Diuretic"
+ },
+ {
+   "id": 33,
+   "generic": "Amiloride",
+   "brand": "Midamor, Hygroton",
+   "type": "Diuretic"
+ },
+ {
+   "id": 34,
+   "generic": "Hydrochlorothiazide",
+   "brand": "Esidrix, Hydrodiuril",
+   "type": "Diuretic"
+ },
+ {
+   "id": 35,
+   "generic": "Indapamide",
+   "brand": "Lozol",
+   "type": "Diuretic"
+ },
+ {
+   "id": 36,
+   "generic": "Metolazone",
+   "brand": "Zaroxolyn",
+   "type": "Diuretic"
+ },
+ {
+   "id": 37,
+   "generic": "Triamterene",
+   "brand": "Dyrenium",
+   "type": "Diuretic"
+ },
+ {
+   "id": 38,
+   "generic": "ivabradine",
+   "brand": "Lancora, Corlanor",
+   "type": "If Channel Blocker"
+ },
+ {
+   "id": 39,
+   "generic": "Hydralazine",
+   "brand": "Apresoline",
+   "type": "Vasodilator"
+ },
+ {
+   "id": 40,
+   "generic": "Nitrate sublingual",
+   "brand": "Nitrostat",
+   "type": "Vasodilator"
+ },
+ {
+   "id": 51,
+   "generic": "Nitrate aerosol",
+   "brand": "Nitromist",
+   "type": "Vasodilator"
+ },
+ {
+   "id": 52,
+   "generic": "Nitrate transdermal",
+   "brand": "nitro-Bid",
+   "type": "Vasodilator"
+ },
+ {
+   "id": 53,
+   "generic": "Nitrate lingual",
+   "brand": "Nitrolingual Pumpspray",
+   "type": "Vasodilator"
+ },
+ {
+   "id": 41,
+   "generic": "Warfarin",
+   "brand": "Coumadin",
+   "type": "Blood Thinner"
+ },
+ {
+   "id": 42,
+   "generic": "digoxin",
+   "brand": "Lanoxin or Toloxin",
+   "type": "Anti-Arrhythmic"
+ },
+ {
+   "id": 43,
+   "generic": "Sacubitril/valsartan",
+   "brand": "Entresto",
+   "type": "ARNI"
+ },
+ {
+   "id": 44,
+   "generic": "Hydralazine/Nitrate",
+   "brand": "Bidil",
+   "type": "Combination drug"
+ },
+ {
+   "id": 45,
+   "generic": "Atorvastatin",
+   "brand": "Lipitor",
+   "type": "Statin"
+ },
+ {
+   "id": 46,
+   "generic": "Fluvastatin",
+   "brand": "Lescol.",
+   "type": "Statin"
+ },
+ {
+   "id": 47,
+   "generic": "Lovastatin",
+   "brand": "Mevacor",
+   "type": "Statin"
+ },
+ {
+   "id": 48,
+   "generic": "Pravastatin",
+   "brand": "Pravachol",
+   "type": "Statin"
+ },
+ {
+   "id": 49,
+   "generic": "Rosuvastatin",
+   "brand": "Crestor",
+   "type": "Statin"
+ },
+ {
+   "id": 50,
+   "generic": "Simvastatin",
+   "brand": "Zocor",
+   "type": "Statin"
+ }
+]

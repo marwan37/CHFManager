@@ -1,0 +1,51 @@
+generic,brand,class
+Benazepril,Lotensin,ACE inhibitors
+Enalapril maleate,Vasotec,ACE inhibitors
+Lisinopril ,"Prinivil, Zestril",ACE inhibitors
+Quinapril ,Accupril,ACE inhibitors
+Ramipril ,Altace,ACE inhibitors
+Captopril,Capoten,ACE inhibitors
+Trandolapril,Mavik,ACE inhibitors
+Perindopril,Coversyl,ACE inhibitors
+Acebutolol,Sectral¨,Beta-Blockers
+Atenolol,Tenormin¨,Beta-Blockers
+Bisoprolol,Monocor¨,Beta-Blockers
+Carvedilol,Coreg¨,Beta-Blockers
+Labetalol,Trandate¨,Beta-Blockers
+Metoprolol,"Lopressor¨, Betaloc¨",Beta-Blockers
+Nadolol,Corgard¨,Beta-Blockers
+Pindolol,Viskazide¨,Beta-Blockers
+Propranolol,Inderal¨,Beta-Blockers
+Timolol,Blocadren¨,Beta-Blockers
+azilsartan,Edarbi,ARBs
+candesartan,Atacand,ARBs
+eprosartan,Teveten,ARBs
+irbesartan,Avapro,ARBs
+telmisartan,Micardis,ARBs
+valsartan,"Diovan, Prexxartan",ARBs
+losartan,Cozaar,ARBs
+olmesartan,Benicar,ARBs
+Spironolactone,Aldactone,Aldosterone Antagonists
+Eplerenone,Inspra,Aldosterone Antagonists
+Furosemide,Lasix,Diuretics (water pills)
+Bumetanide,Bumex,Diuretics (water pills)
+Torsemide,Demadex,Diuretics (water pills)
+Chlorothiazide,Diuril,Diuretics (water pills)
+Amiloride,Midamor Chlorthalidone (Hygroton,Diuretics (water pills)
+Hydrochlorothiazide,"Esidrix, Hydrodiuril",Diuretics (water pills)
+Indapamide,Lozol,Diuretics (water pills)
+Metolazone,Zaroxolyn,Diuretics (water pills)
+Triamterene,Dyrenium,Diuretics (water pills)
+ivabradine,"Lancora, Corlanor",If Channel Blocker
+Hydralazine,,Vasodilator
+Nitrate,,Vasodilator
+Warfarin,Coumadin,Blood Thinner
+digoxin,Lanoxin or Toloxin,Anti-Arrhythmic
+Sacubitril/valsartan,,ARNIs
+Hydralazine and isosorbide dinitrate ,Bidil,Combination drug
+Atorvastatin,Lipitor¨,Statins
+Fluvastatin,Lescol.Ê¨,Statins
+Lovastatin,Mevacor¨,Statins
+Pravastatin,Pravachol¨,Statins
+Rosuvastatin,Crestor¨,Statins
+Simvastatin,Zocor¨,Statins

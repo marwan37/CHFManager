@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CGExtender",
+        "repositoryURL": "https://github.com/kieranb662/CGExtender.git",
+        "state": {
+          "branch": null,
+          "revision": "3417457a041a238f4b0df9d702fd8d85bbdd6810",
+          "version": "1.0.4"
+        }
+      },
+      {
+        "package": "ElegantCalendar",
+        "repositoryURL": "https://github.com/ThasianX/ElegantCalendar",
+        "state": {
+          "branch": null,
+          "revision": "d446234f27e60f5bef15f91c35d384f388ff2c7d",
+          "version": "4.3.2"
+        }
+      },
+      {
+        "package": "ElegantPages",
+        "repositoryURL": "https://github.com/ThasianX/ElegantPages",
+        "state": {
+          "branch": null,
+          "revision": "d598ce4824c40296decc84eae5b3c042d3dff842",
+          "version": "1.4.2"
+        }
+      },
+      {
+        "package": "PartialSheet",
+        "repositoryURL": "https://github.com/AndreaMiotto/PartialSheet.git",
+        "state": {
+          "branch": null,
+          "revision": "422d748bfb149b2af4b48e43b7b6197bd8a727c1",
+          "version": "2.1.14"
+        }
+      },
+      {
+        "package": "Grid",
+        "repositoryURL": "https://github.com/spacenation/swiftui-grid.git",
+        "state": {
+          "branch": null,
+          "revision": "623f995c6ee0e5a5ed0e104d142daeae67b0ec92",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "Shapes",
+        "repositoryURL": "https://github.com/kieranb662/SwiftUI-Shapes",
+        "state": {
+          "branch": null,
+          "revision": "cd3983671dfe784609d52723f98013f953d7bb14",
+          "version": "1.0.10"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

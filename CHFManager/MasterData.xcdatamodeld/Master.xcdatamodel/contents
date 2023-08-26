@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D5042d" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CD_Liquids" representedClassName=".CD_Liquids" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="intake" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="limit" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="DryWeight" representedClassName=".DryWeight" syncable="YES">
+        <attribute name="dryWeight" optional="YES" attributeType="String"/>
+        <attribute name="monthYear" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MasterData" representedClassName=".MasterData" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dyspnea" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="fatigue" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="liquids" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="percentage" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="rxComp" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="swelling" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="ofUser" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Userdetails" inverseName="masterData" inverseEntity="Userdetails"/>
+    </entity>
+    <entity name="NewsItem" representedClassName=".NewsItem" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="subtitle" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="RxData" representedClassName=".RxData" syncable="YES">
+        <attribute name="brand" optional="YES" attributeType="String"/>
+        <attribute name="dose" optional="YES" attributeType="String"/>
+        <attribute name="freq" optional="YES" attributeType="String"/>
+        <attribute name="gen" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="qty" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Score" representedClassName=".Score" syncable="YES">
+        <attribute name="month" optional="YES" attributeType="String"/>
+        <attribute name="score" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="scoreIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="ofUser" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Userdetails" inverseName="score" inverseEntity="Userdetails"/>
+    </entity>
+    <entity name="Userdetails" representedClassName=".Userdetails" syncable="YES">
+        <attribute name="birthDate" optional="YES" attributeType="String"/>
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="gender" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="password" optional="YES" attributeType="String"/>
+        <attribute name="uid" optional="YES" attributeType="String"/>
+        <relationship name="masterData" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MasterData" inverseName="ofUser" inverseEntity="MasterData"/>
+        <relationship name="score" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Score" inverseName="ofUser" inverseEntity="Score"/>
+        <relationship name="weight" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Weight" inverseName="ofUser" inverseEntity="Weight"/>
+    </entity>
+    <entity name="Weight" representedClassName=".Weight" syncable="YES">
+        <attribute name="month" optional="YES" attributeType="String"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="weightIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="ofUser" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Userdetails" inverseName="weight" inverseEntity="Userdetails"/>
+    </entity>
+    <elements>
+        <element name="DryWeight" positionX="-18" positionY="117" width="128" height="59"/>
+        <element name="MasterData" positionX="-45" positionY="0" width="128" height="164"/>
+        <element name="NewsItem" positionX="-18" positionY="117" width="128" height="89"/>
+        <element name="RxData" positionX="-18" positionY="117" width="128" height="134"/>
+        <element name="Score" positionX="-18" positionY="90" width="128" height="89"/>
+        <element name="Userdetails" positionX="-18" positionY="81" width="128" height="164"/>
+        <element name="Weight" positionX="9" positionY="108" width="128" height="89"/>
+        <element name="CD_Liquids" positionX="-18" positionY="117" width="128" height="74"/>
+    </elements>
+</model>
